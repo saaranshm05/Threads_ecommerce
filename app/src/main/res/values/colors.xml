@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#425A4D</color>
+    <color name="colorPrimaryDark">#425A4D</color>
+    <color name="secondary">#F1D4BA</color>
+    <color name="NeonGreen">#AAF0D1</color>
+    <color name="secondaryDark">#D9AB89</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="successGreen">#11a10c</color>
+    <color name="recyclerviewBackground">#d6d6d6</color>
+    <color name="coupanPurple">#3606b6</color>
+    <color name="coupanRed">#FF3030</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#D9AB89</color>
+</resources>
